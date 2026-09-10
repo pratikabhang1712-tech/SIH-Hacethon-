@@ -1,0 +1,6 @@
+{
+  "name": "Capacity Connect",
+  "description": "Smart student-focused learning and skill development platform connecting skills, gap analysis, personalized learning paths, assessments, and career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
